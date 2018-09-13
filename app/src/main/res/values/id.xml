@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Disp1" type="id" />
+    <item name="text1" type="id" />
+    <item name="values" type="id" />
+    <item name="TextView9" type="id" />
+    <item name="spinner1" type="id" />
+</resources>
